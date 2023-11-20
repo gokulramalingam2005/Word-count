@@ -23,8 +23,8 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 ## PROGRAM:
 ```
-## DEVELOPED BY: J.Deepika
-## REFERENCE NUMBER: 21005688
+## DEVELOPED BY: gokul r
+## REFERENCE NUMBER: 22009260
 num_words =0
 file1 = open("text.txt", "r")
 print(file1.read())
